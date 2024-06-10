@@ -1,9 +1,9 @@
 fx_version "cerulean"
 
-description "Basic React (TypeScript) & Lua Game Scripts Boilerplate"
-author "Project Error"
+description "A simple keypad script for FiveM"
+author "sticksdev"
 version '1.0.0'
-repository 'https://github.com/project-error/fivem-react-boilerplate-lua'
+repository 'https://github.com/SticksDev/sticks-keypad'
 
 lua54 'yes'
 
